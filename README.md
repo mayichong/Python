@@ -8,11 +8,13 @@
 
 1. Easier Way (Beginner)
 
-*Install if:*
+*Install Anaconda if:*
 * Want to access most of the packages/dependencies
 * Have enough space to store packages/dependencies
 * Too lazy to setup environments
 
+*Install Miniconda if:*
+* Want to install individual packages/dependencies by y
 Install [Anaconda](https://www.anaconda.com/)
 
 
