@@ -56,7 +56,7 @@ Install [Python](https://www.python.org/downloads/)
 On mac:
 <br />
 
-	1. Create a virtual path
+1. Create a virtual path
 ```
 python3 -m venv env
 ```
