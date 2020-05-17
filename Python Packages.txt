@@ -3,3 +3,6 @@ numpy: Scientific Computing
 pandas: Data structures and analysis tool
 
 matplotlib: beautiful graphics and charts
+
+scikit-learn: a great data science library
+
