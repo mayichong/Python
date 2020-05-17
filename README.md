@@ -72,8 +72,15 @@ source env/bin/activate
 ```
 
 3. Add virtualenv to Jupyter Notebook
+<br />
 
+*Make sure you are in the env path
+	1. Install ipykernel
+	```
+	pip3 install ipykernel
+	```
 
+	2. 
 4. Deactivate the virtual path
 
 ```
