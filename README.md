@@ -76,21 +76,21 @@ source env/bin/activate
 
 *Make sure you are in your environment!*
 
-	i. Install ipykernel
+	1. Install ipykernel
 	```
 	pip3 install ipykernel
 	```
 
-	ii. Install a new kernel
+	2. Install a new kernel
 	```
 	ipython kernel install --user --name=ProjectName
 	```
 	
-	iii. Activate the new kernel after opening jupyter notebook
+	3. Activate the new kernel after opening jupyter notebook
 	```
 	jupyter notebook
 	```
-	Open a notebook file, click on kernel, pick ProjectName
+	Open a notebook file, click on kernel, pick 
 
 
 4. Deactivate the virtual path
