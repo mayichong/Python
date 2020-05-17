@@ -14,7 +14,11 @@
 * Too lazy to setup environments
 
 *Install Miniconda if:*
-* Want to install individual packages/dependencies by y
+* Want to install individual packages/dependencies by yourself
+* Have little space to store packages/dependencies
+* Minimal spaces
+
+
 Install [Anaconda](https://www.anaconda.com/)
 
 
