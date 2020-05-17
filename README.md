@@ -11,8 +11,7 @@
 * Have enough space to store packages/dependencies
 * Too lazy to setup environments
 
-Install Anaconda
-[Link](https://www.anaconda.com/)
+Install [Anaconda](https://www.anaconda.com/)
 
 
 
