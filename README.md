@@ -71,3 +71,12 @@ python3 -m venv env
 source env/bin/activate
 ```
 
+3. Add virtualenv to Jupyter Notebook
+
+
+4. Deactivate the virtual path
+
+```
+deactivate 
+```
+
