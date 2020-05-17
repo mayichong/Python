@@ -6,7 +6,7 @@
 <br /><br />
 ### 1. Python Installation
 
-[Python](https://www.python.org/downloads/)
+Install [Python](https://www.python.org/downloads/)
 <br />
 ### 2. Python Notebook (Jupiter Notebook)
 <br />
