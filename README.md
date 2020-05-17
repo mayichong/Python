@@ -31,7 +31,8 @@ Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 	1. install pip
 	*pip is installed with python3. For mac, use pip3 in commandline*
 	
-	2. 
+	2. upgrade pip
+	
 
 All Python Related Notes
 
