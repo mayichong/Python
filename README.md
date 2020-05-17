@@ -26,8 +26,6 @@ Install [Python](https://www.python.org/downloads/)
 
 **Install [Anaconda](https://www.anaconda.com/)**
 
-<br />
-
 **Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)**
 
 <br /><br />
