@@ -28,8 +28,7 @@ Install [Python](https://www.python.org/downloads/)
 
 <br />
 
-**Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
-**
+**Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)**
 
 <br /><br />
 
