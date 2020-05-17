@@ -24,8 +24,11 @@ Install [Python](https://www.python.org/downloads/)
 * Minimal spaces
 <br />
 
-**Install [Anaconda](https://www.anaconda.com/)<br />
-Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+**Install [Anaconda](https://www.anaconda.com/)**
+
+<br />
+
+**Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 **
 
 <br /><br />
