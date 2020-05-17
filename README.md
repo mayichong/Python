@@ -6,9 +6,9 @@
 
 1. Easier Way (Beginner)
 
-InsAnaconda
+Install Anaconda
 
-https://www.anaconda.com/
+[GitHub](https://www.anaconda.com/)
 
 
 
