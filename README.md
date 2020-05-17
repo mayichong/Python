@@ -1,8 +1,10 @@
 # Python
 
+
+
 ## Python Basics
 
-### Python Installation
+### 1. Python Installation
 
 1. Easier Way (Beginner)
 
@@ -12,9 +14,6 @@
 * Too lazy to setup environments
 
 Install [Anaconda](https://www.anaconda.com/)
-
-
-
 
 
 
