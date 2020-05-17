@@ -59,5 +59,6 @@ On mac:
 ```
 python3 -m venv env
 ```
+<br />
 
 	*'venv' is the path, 'env' is the folder's name*
