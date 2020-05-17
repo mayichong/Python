@@ -29,7 +29,9 @@ Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 2. Hard Way (CommandLine)
 
 	1. install pip
-	*pip 
+	*pip is installed with python3. For mac, use pip3 in commandline*
+	
+	2. 
 
 All Python Related Notes
 
