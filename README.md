@@ -8,7 +8,7 @@
 
 Install [Python](https://www.python.org/downloads/)
 <br />
-### 2. Python Notebook (Jupiter Notebook)
+### 2. Python Notebook (Jupyter Notebook)
 <br />
 1. Easier Way (Beginner)
 
