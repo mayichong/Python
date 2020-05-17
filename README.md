@@ -6,7 +6,12 @@
 
 1. Easier Way (Beginner)
 
-*I
+*Install if:*
+* Want to access most of the packages/dependencies
+* Have enough space to store packages/dependencies
+* Eas
+
+
 
 Install Anaconda
 [Link](https://www.anaconda.com/)
