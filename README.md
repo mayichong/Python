@@ -37,8 +37,13 @@ Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 	```
 	<br />
 	3. Install notebook
+	```
 	pip3 install jupyter
-
-All Python Related Notes
+	```
+	<br />
+	4. launch notebook
+	```
+	jupyter notebook
+	```
 
 
