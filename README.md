@@ -65,4 +65,9 @@ python3 -m venv env
 *'venv' is the path, 'env' is the folder's name*
 <br />
 
-2. Ac
+2. Activate the virtual path
+
+```
+source env/bin/activate
+```
+
