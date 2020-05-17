@@ -3,7 +3,7 @@
 
 <br /><br /><br />
 ## Python Basics
-<br />
+<br /><br />
 ### 1. Python Installation
 
 Install [Python](https://www.python.org/downloads/)
