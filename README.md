@@ -18,12 +18,13 @@
 * Have little space to store packages/dependencies
 * Minimal spaces
 
-
 Install [Anaconda](https://www.anaconda.com/)
+Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 
+2. Hard Way (CommandLine)
 
-2. 
+
 
 All Python Related Notes
 
