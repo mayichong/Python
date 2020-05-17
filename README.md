@@ -90,7 +90,7 @@ source env/bin/activate
 	```
 	jupyter notebook
 	```
-	Open a notebook file, click on kernel, pick
+	Open a notebook file, click on kernel, pick ProjectName
 
 
 4. Deactivate the virtual path
