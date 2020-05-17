@@ -75,18 +75,15 @@ source env/bin/activate
 <br />
 
 *Make sure you are in your environment!*
-
-1. Install ipykernel
+	1. Install ipykernel
 	```
 	pip3 install ipykernel
 	```
-
-2. Install a new kernel
+	2. Install a new kernel
 	```
 	ipython kernel install --user --name=ProjectName
 	```
-	
-3. Activate the new kernel after opening jupyter notebook
+	3. Activate the new kernel after opening jupyter notebook
 	```
 	jupyter notebook
 	```
