@@ -7,8 +7,9 @@
 ### 1. Python Installation
 
 [Python](https://www.python.org/downloads/)
-<br /><br />
+<br />
 ### 2. Python Notebook (Jupiter Notebook)
+<br />
 1. Easier Way (Beginner)
 
 *Install Anaconda if:*
@@ -24,11 +25,11 @@
 Install [Anaconda](https://www.anaconda.com/)<br />
 Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
-
+<br /><br />
 2. Hard Way (CommandLine)
 
 	1. install pip
-
+	*pip 
 
 All Python Related Notes
 
