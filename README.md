@@ -76,7 +76,7 @@ source env/bin/activate
 
 *Make sure you are in your environment!*
 <br />
-	1. Install ipykernel
+	i. Install ipykernel
 	```
 	pip3 install ipykernel
 	```
