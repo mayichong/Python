@@ -6,6 +6,7 @@
 
 ### 1. Python Installation
 
+
 1. Easier Way (Beginner)
 
 *Install Anaconda if:*
@@ -24,6 +25,7 @@ Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 2. Hard Way (CommandLine)
 
+Since 
 
 
 All Python Related Notes
