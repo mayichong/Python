@@ -21,7 +21,7 @@
 * Have little space to store packages/dependencies
 * Minimal spaces
 
-Install [Anaconda](https://www.anaconda.com/)
+Install [Anaconda](https://www.anaconda.com/)<br />
 Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 
