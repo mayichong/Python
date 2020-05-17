@@ -74,13 +74,19 @@ source env/bin/activate
 3. Add virtualenv to Jupyter Notebook
 <br />
 
-*Make sure you are in the env path
+*Make sure you are in your environment!*
+
 	1. Install ipykernel
 	```
 	pip3 install ipykernel
 	```
 
-	2. 
+	2. Install a new kernel
+	```
+	ipython kernel install --user --name=ProjectName
+	```
+	
+	3. Activate the new kernel after 
 4. Deactivate the virtual path
 
 ```
