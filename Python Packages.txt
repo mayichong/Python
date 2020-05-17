@@ -1,1 +1,5 @@
-numpy:
+numpy: Scientific Computing
+
+pandas: Data structures and analysis tool
+
+matplotlib: beautiful graphics and charts
