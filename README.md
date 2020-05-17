@@ -27,7 +27,7 @@ Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 2. Hard Way (CommandLine)
 
-
+	1. install pip
 
 
 All Python Related Notes
