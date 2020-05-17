@@ -48,5 +48,6 @@ Install [Python](https://www.python.org/downloads/)
 	```
 	jupyter notebook
 	```
+<br /><br />
 
-
+### 3. Virtual Environment
