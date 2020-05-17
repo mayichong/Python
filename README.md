@@ -9,9 +9,7 @@
 *Install if:*
 * Want to access most of the packages/dependencies
 * Have enough space to store packages/dependencies
-* Eas
-
-
+* Too lazy to setup environments
 
 Install Anaconda
 [Link](https://www.anaconda.com/)
