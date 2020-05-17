@@ -51,3 +51,11 @@ Install [Python](https://www.python.org/downloads/)
 <br />
 
 ### 3. Virtual Environment
+<br />
+
+On mac:
+	1. Create 
+```
+python3 -m venv env
+```
+
