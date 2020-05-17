@@ -32,23 +32,23 @@ Install [Python](https://www.python.org/downloads/)
 
 2. Hard Way (Commandline)
 
-1. install pip (pip is installed with python3. For mac, use pip3 in commandline)
+	1. install pip (pip is installed with python3. For mac, use pip3 in commandline)
 <br />
 
-2. upgrade pip
+	2. upgrade pip
 	```
 	pip3 install --upgrade pip
 	```
 
 <br />
 
-3. Install notebook
+	3. Install notebook
 	```
 	pip3 install jupyter
 	```
 <br />
 
-4. launch notebook
+	4. launch notebook
 	```
 	jupyter notebook
 	```
