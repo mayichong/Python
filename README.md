@@ -86,7 +86,13 @@ source env/bin/activate
 	ipython kernel install --user --name=ProjectName
 	```
 	
-	3. Activate the new kernel after 
+	3. Activate the new kernel after opening jupyter notebook
+	```
+	jupyter notebook
+	```
+	Open a notebook file, click on kernel, pick
+
+
 4. Deactivate the virtual path
 
 ```
